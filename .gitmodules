@@ -1,0 +1,3 @@
+[submodule "rf4737-pack/lib/projectile"]
+	path = rf4737-pack/lib/projectile
+	url = https://github.com/bbatsov/projectile.git
