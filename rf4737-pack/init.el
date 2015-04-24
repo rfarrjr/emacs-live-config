@@ -15,3 +15,8 @@
 (live-add-pack-lib "projectile")
 (require 'projectile)
 (projectile-global-mode)
+
+;;config lein
+;;(setq cider-lein-command "mvn")
+;;(setq cider-lein-parameters "clojure:nrepl")
+
